@@ -7,17 +7,14 @@
 ╚══════╝╚═╝   ╚══════╝╚═╝ ╚═════╝╚══════╝
 ```
 
-### Hey, I'm Layth 👋
+### Hey, I'm Layth 
 
-Backend-focused engineer in Chicago. I like building systems that move money and data reliably, especially payments and fintech infrastructure.
+Chicago-based software engineer who's interested in the world of fintech backends, fraud and risk systems, and how money moves reliably at a large scale.
 
-**Currently building:** [OrderGuard](https://github.com/lyl4cs/orderguard), a fraud screening service for small Shopify stores. It learns what a normal order looks like for one store, explains every flag in plain language, and alerts the owner before a risky order ships.
+**About me:** Outside of software engineering, I am a national-level powerlifter, aspiring trance/edm music producer and pretty big into competitive video games! (Masters LOL, Top 500 Overwatch)
 
-**Past projects**
-- **[Neeshdle](https://github.com/lyl4cs/neeshdle)**: song-guessing game with an LLM that turns vague song descriptions into precise iTunes API searches.
+**Looking for:** Summer 2027 SWE internships, backend / fintech, NYC preferred but open to anything!
 
-**Tools:** Python · FastAPI · PostgreSQL · SQL · Node.js · Git
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/layth-sarama-725a20368/) · Laythsarama05@gmail.com
 
-**Looking for:** Summer 2027 SWE internships, backend / fintech, NYC preferred
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · YOUR-EMAIL
