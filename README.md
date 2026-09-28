@@ -15,6 +15,6 @@ Chicago-based software engineer who's interested in the world of fintech backend
 
 **Looking for:** Summer 2027 SWE internships, backend / fintech, NYC preferred but open to anything!
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/layth-sarama-725a20368/) · Laythsarama05@gmail.com
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/layth-sarama-725a20368/) · Laythsarama05@gmail.com · [Resume](resume.pdf)
 
 
