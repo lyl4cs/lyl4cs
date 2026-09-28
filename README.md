@@ -1,51 +1,23 @@
 ```
-                                                                                                       
-                                                                                                       
-LLLLLLLLLLL                              lllllll       444444444                                       
-L:::::::::L                              l:::::l      4::::::::4                                       
-L:::::::::L                              l:::::l     4:::::::::4                                       
-LL:::::::LL                              l:::::l    4::::44::::4                                       
-  L:::::L        yyyyyyy           yyyyyyyl::::l   4::::4 4::::4      cccccccccccccccc    ssssssssss   
-  L:::::L         y:::::y         y:::::y l::::l  4::::4  4::::4    cc:::::::::::::::c  ss::::::::::s  
-  L:::::L          y:::::y       y:::::y  l::::l 4::::4   4::::4   c:::::::::::::::::css:::::::::::::s 
-  L:::::L           y:::::y     y:::::y   l::::l4::::444444::::444c:::::::cccccc:::::cs::::::ssss:::::s
-  L:::::L            y:::::y   y:::::y    l::::l4::::::::::::::::4c::::::c     ccccccc s:::::s  ssssss 
-  L:::::L             y:::::y y:::::y     l::::l4444444444:::::444c:::::c                s::::::s      
-  L:::::L              y:::::y:::::y      l::::l          4::::4  c:::::c                   s::::::s   
-  L:::::L         LLLLLLy:::::::::y       l::::l          4::::4  c::::::c     cccccccssssss   s:::::s 
-LL:::::::LLLLLLLLL:::::L y:::::::y       l::::::l         4::::4  c:::::::cccccc:::::cs:::::ssss::::::s
-L::::::::::::::::::::::L  y:::::y        l::::::l       44::::::44 c:::::::::::::::::cs::::::::::::::s 
-L::::::::::::::::::::::L y:::::y         l::::::l       4::::::::4  cc:::::::::::::::c s:::::::::::ss  
-LLLLLLLLLLLLLLLLLLLLLLLLy:::::y          llllllll       4444444444    cccccccccccccccc  sssssssssss    
-                       y:::::y                                                                         
-                      y:::::y                                                                          
-                     y:::::y                                                                           
-                    y:::::y                                                                            
-                   yyyyyyy                                                                             
-                                                                                                       
-```                                                                                                     
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
+██╗  ██╗   ██╗██╗██╗  ██╗ ██████╗███████╗
+██║  ╚██╗ ██╔╝██║██║  ██║██╔════╝██╔════╝
+██║   ╚████╔╝ ██║███████║██║     ███████╗
+██║    ╚██╔╝  ██║╚════██║██║     ╚════██║
+███████╗██║   ███████╗██║╚██████╗███████║
+╚══════╝╚═╝   ╚══════╝╚═╝ ╚═════╝╚══════╝
+```
+
+### Hey, I'm Layth 👋
+
+Backend-focused engineer in Chicago. I like building systems that move money and data reliably, especially payments and fintech infrastructure.
+
+**Currently building:** [OrderGuard](https://github.com/lyl4cs/orderguard), a fraud screening service for small Shopify stores. It learns what a normal order looks like for one store, explains every flag in plain language, and alerts the owner before a risky order ships.
+
+**Past projects**
+- **[Neeshdle](https://github.com/lyl4cs/neeshdle)**: song-guessing game with an LLM that turns vague song descriptions into precise iTunes API searches.
+
+**Tools:** Python · FastAPI · PostgreSQL · SQL · Node.js · Git
+
+**Looking for:** Summer 2027 SWE internships, backend / fintech, NYC preferred
+
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · YOUR-EMAIL
